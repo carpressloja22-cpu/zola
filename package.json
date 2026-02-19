@@ -10,6 +10,10 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
+    "@ai-sdk/react": "^1.0.0",
+    "framer-motion": "^10.12.16",
+    "@phosphor-icons/react": "^2.1.10",
+    "motion": "^12.34.2"
     "@ai-sdk/anthropic": "^1.2.10",
     "@ai-sdk/google": "^1.2.13",
     "@ai-sdk/mistral": "^1.2.0",
